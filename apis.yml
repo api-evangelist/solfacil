@@ -1,0 +1,28 @@
+aid: solfacil
+name: Solfacil
+description: 'Solfacil is a company surfaced as a portfolio company of fifth-wall, qed-investors and added
+  to the API Evangelist network as a stub for enrichment. Sector: clean-energy. This profile is a lead
+  awaiting the enrichment pipeline.'
+url: https://raw.githubusercontent.com/api-evangelist/solfacil/refs/heads/main/apis.yml
+x-type: company
+x-source: vc-portfolio
+x-backed-by:
+- fifth-wall
+- qed-investors
+x-tier: stub
+x-tier-reason: portfolio-lead
+specificationVersion: '0.20'
+created: '2026-07-17'
+modified: '2026-07-17'
+tags:
+- Company
+- Clean Energy
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://landing.solfacil.com.br/
