@@ -1,0 +1,42 @@
+# Solfacil
+
+> O maior ecossistema de energia solar da America Latina. A Solfacil conecta mais de 20.000 integradores parceiros (B2B) a financiamento solar 100% digital, distribuicao de equipamentos fotovoltaicos e tecnologia de monitoramento. Mais de R$ 5,8 bilhoes em financiamentos originados, 2,3 GW de potencia instalada e presenca em todo o Brasil.
+
+A Solfacil opera no modelo B2B2C: o integrador de energia solar e o cliente direto da plataforma e utiliza os produtos Solfacil para oferecer solucoes ao cliente final. As taxas de juros variam conforme o perfil de credito, o estado e a sazonalidade — para valores exatos, consultar a simulacao oficial na plataforma (disponivel 24/7). Todos os produtos financeiros sao regulados pelo Banco Central por meio da Solfacil Sociedade de Credito, Financiamento e Investimento S.A. Equipamentos sao faturados pela Solfacil Distribuidora Industrial Ltda.
+
+## Solucoes para Integradores
+
+- [Financiamento Solar](https://solfacil.com.br/financie/): Credito proprio 100% digital, aprovacao automatizada em 30 segundos (3 campos para PF, 4 para PJ), parcelamento em ate 120 meses, carencia de ate 3 meses, financia ate 100% do projeto sem exigencia de comprovante de renda ou faturamento.
+- [Loja e Distribuidora](https://solfacil.com.br/loja/): Hardware fotovoltaico homologado das principais marcas mundiais. Filiais proprias em Jundiai-SP (Sudeste), Jaboatao dos Guararapes-PE (Nordeste) e Tubarao-SC (Sul). Garantia Express para substituicao agil de modulos e inversores.
+- [Combo Facil](https://solfacil.com.br/combo-facil/): Une financiamento e compra de equipamentos em um unico fluxo. Reduz a parcela do cliente final, amplia a margem do integrador e gera 3 pontos por R$ 1 no programa SF Mais (frente a 2 pontos no financiamento tradicional e 1 ponto em compras avulsas).
+- [Combo Conecte](https://solfacil.com.br/combo-conecte/): Financiamento com desconto atrelado ao monitoramento obrigatorio do inversor. Inversores GoodWe DNS-G40 e MS-G40 de 5kW a 10kW. Menor parcela do ecossistema, maior aprovacao de credito e comissao flexivel de ate 5% para o integrador.
+- [BESS CI](https://solfacil.com.br/bess/): Armazenamento em baterias acima de 200 kWh para comercio, industria e agronegocio. Reducao de ate 40% no custo com energia. Aplicacoes: Time Shifting, substituicao de geradores a diesel (TIR 20% a 35% a.a.), Peak Shaving e Backup Critico. Tecnologia LFP, 6.000 ciclos, eficiencia de 92%. Modalidades: Compra Direta, Financiamento em ate 120 meses ou BESS as-a-Service (Zero CAPEX).
+- [Seguros](https://solfacil.com.br/seguros/): Seguro de Riscos Diversos (equipamento por 1 ano, cobertura para danos naturais, 50% para roubo/furto, 30% para danos eletricos) e Seguro Contra Perda de Renda (cobre ate 3 parcelas por desemprego, quita o saldo devedor em caso de invalidez ou morte). Comissionamento para o integrador em cada venda.
+- [Solfacil Smart](https://solfacil.com.br/solfacil-smart/): Plataforma de monitoramento e gestao que transforma dados de geracao em oportunidades de novas vendas e fortalece o relacionamento do integrador com seus clientes.
+
+## Parceria e Equipamentos
+
+- [Parceria GoodWe](https://solfacil.com.br/goodwe/): A Solfacil e o maior distribuidor oficial da GoodWe no Brasil. Marca certificada Tier 1 pela BloombergNEF, lider global em inversores hibridos (Wood Mackenzie), com mais de 100 GW instalados em 100 paises. Estoque nacional nas filiais Solfacil, suporte tecnico nacional e treinamentos oficiais de comissionamento.
+- [Sistemas Hibridos e Baterias](https://solfacil.com.br/sistemas-hibridos-e-baterias/): Inversores GoodWe linhas ES G2 (monofasico, 3,5 a 6kW), ET (trifasico, 12 a 30kW), ES-LD e ET LV (cargas 127V/220V) e BT (retrofit AC). Baterias Lynx Home U (10 anos de garantia, INMETRO), Lynx F G2 (ate 460 kWh por torre) e Rack Unipower (ate 75 kWh em paralelo).
+
+## Capacitacao e Independencia Energetica
+
+- [Hub de Independencia Energetica](https://solfacil.com.br/independencia-energetica/): Central de inteligencia para transicao de usinas On-Grid para sistemas hibridos. Inclui Calculadora de Hibridos (ROI e Payback automatizados), IA de Armazenamento e conteudos sobre blindagem regulatoria pos-2028 contra a taxacao do Fio B.
+- [Solfacil Academy](https://academy.solfacil.com.br/): Plataforma de capacitacao com trilhas sobre sistemas hibridos, armazenamento, dimensionamento e boas praticas. Aulas ao vivo e gravadas com especialistas Solfacil, fabricantes e parceiros estrategicos.
+
+## Programa de Fidelidade
+
+- [Solfacil Mais](https://solfacil.com.br/solfacil-mais/): Programa exclusivo para integradores com niveis trimestrais (N2 a N5 e Black). Descontos progressivos em kits (ate 10%), reducao de taxas de financiamento, credito para parcelamento sem juros e atendimento Key Account. Nivel Black por convite: inclui Seguro RD gratuito no Combo Facil.
+
+## Dados de Mercado
+
+- [Infografico Solar Brasil](https://solfacil.com.br/infografico-solfacil/): Dados atualizados com base na ANEEL: 4,32 milhoes de usinas conectadas, historico anual de novas conexoes (2020 a 2026), perfil por tamanho de sistema, segmentacao por consumo (residencial 84% em 2026), penetracao nacional de 8,1% e ranking de estados e cidades.
+
+## Para o Cliente Final
+
+- [Seja Cliente](https://solfacil.com.br/cliente/): Como o cliente final pode adquirir energia solar por meio de um integrador Solfacil homologado, incluindo sistemas hibridos com baterias para residencias.
+- [Validador de Boletos](https://landing.solfacil.com.br/validador/): Ferramenta publica para checar a autenticidade de boletos emitidos com a marca Solfacil, prevenindo fraudes e golpes virtuais.
+
+## Optional
+
+- [Solucoes Solfacil](https://solfacil.com.br/solucoes/): Visao geral do ecossistema completo com todos os produtos e como se tornar um integrador parceiro.
